@@ -1,6 +1,6 @@
 {
   "name": "test-vm",
-  "type":"module",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ihasidul/test-vm/issues"
   },
-  "homepage": "https://github.com/ihasidul/test-vm#readme"
+  "homepage": "https://github.com/ihasidul/test-vm#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
